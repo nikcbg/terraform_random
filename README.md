@@ -1,4 +1,4 @@
-# terraform_randon_id
+# terraform_randon
 
 ### Purpose of the repository 
 - The repository is to use `random` provider and test with `random_id` resource.
