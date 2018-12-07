@@ -14,7 +14,7 @@ File name                            | File description
 - Clone the repository to your local computer: `git clone git@github.com:nikcbg/terraform_randon.git`.
 - Go to the cloned repo on your computer: `cd terraform_randon`.
 
-### Commands needed to build and apply execution plan for the `null_resource` provider and `count` parameter.
+### Commands needed to build and apply execution plan for the repository. 
 
 Command execution                    | Command outcome
 ------------------------------------ | --------------------------------------------------------------
