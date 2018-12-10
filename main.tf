@@ -1,5 +1,6 @@
 provider "random" {}
 
-resource "random_id" "example" {
-    byte_length = 8
-  }
+resource "random_string" "example" {
+  length = 8
+
+}
