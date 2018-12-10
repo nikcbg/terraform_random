@@ -1,13 +1,13 @@
 # terraform_randon
 
 ### Purpose of the repository 
-- The repository is to use `random` provider and test with `random_id` resource.
+- The repository is to use `random` provider and test with `random_integer` resource.
 
 #### List of files in the repository
 
 File name                            | File description 
 ------------------------------------ | --------------------------------------------------------------
-`main.tf` | template with code for `terraform` tool to use `random` provider and `random_id` resource.
+`main.tf` | template with code for `terraform` tool to use `random` provider and `random_integer` resource.
 
 ### How to use this repository. 
 - Install `terraform` by following this [instructions](https://www.terraform.io/intro/getting-started/install.html).
